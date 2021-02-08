@@ -14,5 +14,8 @@ public class MainActivity extends AppCompatActivity {
         //asdasdasdasd
 
         getSupportActionBar().setTitle("aaaa");
+        getSupportActionBar().setTitle("aaaa");
+        getSupportActionBar().setTitle("aaaa");
+        getSupportActionBar().setTitle("aaaa");
     }
 }
