@@ -12,5 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //asdasdasdasd
+
+        getSupportActionBar().setTitle("aaaa");
     }
 }
